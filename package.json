@@ -11,6 +11,9 @@
     "build": "avet-bin build",
     "prepublish": "avet-bin build"
   },
+  "dependencies": {
+    "postcss-adaptive": "^0.4.0"
+  },
   "devDependencies": {
     "avet-bin": "^1.0.0-0",
     "babel-eslint": "^8.0.2",
