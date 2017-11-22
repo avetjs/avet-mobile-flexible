@@ -1,0 +1,37 @@
+{
+  "name": "avet-mobile-flexible",
+  "version": "0.1.0",
+  "description": "mobile flexible for avet",
+  "avetPlugin": {
+    "name": "mobileFlexible"
+  },
+  "files": ["config", "output"],
+  "keywords": ["avet", "avetPlugin", "avet-plugin", "mobile", "flexible"],
+  "scripts": {
+    "build": "avet-bin build",
+    "prepublish": "avet-bin build"
+  },
+  "devDependencies": {
+    "avet-bin": "^1.0.0-0",
+    "babel-eslint": "^8.0.2",
+    "react": "^16.1.1",
+    "eslint": "^4.11.0",
+    "eslint-config-avet": "^0.3.9"
+  },
+  "tnpm": {
+    "mode": "npm"
+  },
+  "engines": {
+    "node": ">= 8"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/avetjs/avet-mobile-flexible"
+  },
+  "bugs": {
+    "url": "https://github.com/avetjs/avet/issues"
+  },
+  "homepage": "http://avetjs.github.io/avet/",
+  "author": "okoala <dapixp@gmail.com>",
+  "license": "MIT"
+}
