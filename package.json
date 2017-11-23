@@ -1,6 +1,6 @@
 {
   "name": "avet-mobile-flexible",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "description": "mobile flexible for avet",
   "avetPlugin": {
     "name": "mobileFlexible"
