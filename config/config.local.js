@@ -1,0 +1,3 @@
+exports.mobileFlexible = {
+  autoRem: false,
+};
