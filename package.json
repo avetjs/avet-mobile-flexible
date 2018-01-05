@@ -12,14 +12,14 @@
     "prepublish": "avet-bin build"
   },
   "dependencies": {
-    "postcss-adaptive": "^0.4.0"
+    "postcss-adaptive": "0.4.0"
   },
   "devDependencies": {
-    "avet-bin": "^1.0.0-0",
-    "babel-eslint": "^8.0.2",
-    "react": "^16.1.1",
-    "eslint": "^4.11.0",
-    "eslint-config-avet": "^0.3.9"
+    "avet-bin": "1.0.0-22",
+    "babel-eslint": "8.1.2",
+    "react": "16.2.0",
+    "eslint": "4.14.0",
+    "eslint-config-avet": "0.3.11"
   },
   "tnpm": {
     "mode": "npm"
