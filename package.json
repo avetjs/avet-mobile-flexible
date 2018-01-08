@@ -18,7 +18,7 @@
     "avet-bin": "1.0.0-22",
     "babel-eslint": "8.1.2",
     "react": "16.2.0",
-    "eslint": "4.14.0",
+    "eslint": "4.15.0",
     "eslint-config-avet": "0.3.11"
   },
   "tnpm": {
